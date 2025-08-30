@@ -90,7 +90,3 @@ Inside the notebook:
 * Add **Convolutional Neural Networks (CNNs)** for higher accuracy.
 * Experiment with **Dropout layers** to reduce overfitting.
 * Try on other datasets (e.g., Fashion-MNIST, CIFAR-10).
-
-
-👉 Do you want me to also **extract key plots & accuracy results from your notebook automatically** (like training vs validation accuracy curves) and include them in the README? That would make it more professional.
-```
