@@ -1,4 +1,4 @@
-````markdown
+
 # 🖼️ Image Classification with TensorFlow & Keras
 
 This project demonstrates how to build a simple **image classification model** using **TensorFlow** and **Keras**.  
